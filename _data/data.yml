@@ -85,11 +85,7 @@ experiences:
       time: 2015 - 2016
       company: Sopra Steria, Nice
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Implementing modules for HP TeMIP device fault management.
 
           - Language: Java EE
 
@@ -97,84 +93,80 @@ experiences:
       time: 2014 - 2015
       company: Amadeus, Nice
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Support of a booking & ticketing system for airlines, and development from scratch
+        of a Sales Orchestration Platform for an online travel agency.
 
-          - Bullet point
-          - Bullet point
+          - Functional knowledge: Tourism & transportation markets
+          - Language: C++
+
+    - role: Programming intern
+      time: 2014
+      company: Ubisoft, Casablanca
+      details: |
+        Optimization of the Child of Light videogame for the PlayStation Vita platform.
+
+          - Technical knowledge: Program profiling, function cost adapting
+          - Language: C++
 
 projects:
-    title: Projects
+    title: Side projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a list of small projects I have worked on to practice or discover technical knowledge.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Birthday-Bot
+        link: "github.com/ety04/birthday-bot"
+        tagline: "A bot for the chat platform Discord, using NodeJS."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ff12bot
+        link: "github.com/ety04/ff12bot"
+        tagline: "Another bot for the streaming platform Twitch's chat, using NodeJS."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: tinyFFXII
+        link: "github.com/ety04/tinyFFXII"
+        tagline: "A Qt application using C++, that simulates a combat between characters and monsters."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Phantasia12
+        link: "phantasia12.teria.org"
+        tagline: "My personal website, made to share my passion about a videogame and writing."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      In addition to my IT position, I am a writer in my free time. Here is a list of non-IT related books.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Casablanca sur le bout de la langue
+        authors: Lycée Lyautey (group of students)
+        conference: 2008
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Crimson Birth
+        authors: Ety
+        conference: Free online e-book in French. 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: C++
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
+        
+      - name: SQL (mySQL, postgreSQL) & PL/SQL
+        level: 75%
+        
+      - name: Javascript & NodeJS
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java & Java EE (Struts, Spring, Hibernate)
+        level: 70%
+        
+      - name: C# .NET
+        level: 65%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
