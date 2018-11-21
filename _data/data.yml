@@ -115,19 +115,19 @@ projects:
 
     assignments:
       - title: Birthday-Bot
-        link: "github.com/ety04/birthday-bot"
+        link: "https://github.com/ety04/birthday-bot"
         tagline: "A bot for the chat platform Discord, using NodeJS."
 
       - title: ff12bot
-        link: "github.com/ety04/ff12bot"
+        link: "https://github.com/ety04/ff12bot"
         tagline: "Another bot for the streaming platform Twitch's chat, using NodeJS."
 
       - title: tinyFFXII
-        link: "github.com/ety04/tinyFFXII"
+        link: "https://github.com/ety04/tinyFFXII"
         tagline: "A Qt application using C++, that simulates a combat between characters and monsters."
 
       - title: Phantasia12
-        link: "phantasia12.teria.org"
+        link: "http://phantasia12.teria.org"
         tagline: "My personal website, made to share my passion about a videogame and writing."
 
 
